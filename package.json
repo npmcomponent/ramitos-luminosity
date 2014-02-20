@@ -1,0 +1,14 @@
+{
+  "name": "ramitos-luminosity",
+  "description": "color luminosity tools",
+  "version": "0.0.1",
+  "keywords": [
+    "light",
+    "dark",
+    "contrast",
+    "luminosity"
+  ],
+  "main": "src/luminosity.js",
+  "dependencies": {},
+  "license": "MIT"
+}
